@@ -10,3 +10,5 @@ Notebooks
 ----
 
 Chapter 2 - notebooks/housing.ipynb
+
+Chapter 3 - notebooks/classification.ipynb
