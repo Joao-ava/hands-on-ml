@@ -10,8 +10,10 @@ This repository is my own code implementation of book [Hands on machine learning
 
 - Main content - notebooks/housing.ipynb
 
-- Exercises - notebooks/exercises_chapter_2.ipynb
+- Exercises - [notebooks/exercises_chapter_2.ipynb](notebooks/exercises_chapter_2.ipynb)
 
 **Chapter 3**
 
 - Main content - notebooks/classification.ipynb
+
+- Exercises - [notebooks/exercises_chapter_3.ipynb](notebooks/exercises_chapter_3.ipynb)
